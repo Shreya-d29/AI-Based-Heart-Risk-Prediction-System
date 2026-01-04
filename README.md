@@ -1,5 +1,4 @@
-HeartGuard AI ( AI-Based-Heart-Risk-Prediction-System) 
-❤️ HeartGuard AI – Heart Disease Risk Prediction System
+ ❤️ HeartGuard AI – Heart Disease Risk Prediction System
 📌 Project Overview
 
 HeartGuard AI is an AI-powered heart disease risk prediction system that helps assess the likelihood of heart disease based on patient health parameters. The project combines machine learning, data analytics, and a user-friendly interface to provide early risk assessment and awareness.
@@ -69,7 +68,7 @@ Results are displayed instantly on the interface
 
 ▶️ How to Run the Project Locally
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/heartguard-ai.git
+git clone https://github.com/Shreya-d29/heartguard-ai.git
 cd heartguard-ai
 
 2️⃣ Install Required Libraries
@@ -115,7 +114,7 @@ It is not a medical diagnostic tool and should not replace professional medical 
 
 Name: Shreya Deshmukh,Snehal Bandgar 
 
-Project Type: Hackathon / Academic Project
+Project Type: Hackathon Project
 
 🏁 Conclusion
 
