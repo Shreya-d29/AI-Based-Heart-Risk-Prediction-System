@@ -68,13 +68,11 @@ Results are displayed instantly on the interface
 
 ▶️ How to Run the Project Locally
 1️⃣ Clone the Repository
-git clone https://github.com/shreya-deshmukh/heartguard-ai.git
+(https://github.com/Shreya-d29/AI-Based-Heart-Risk-Prediction-System.git)
 cd heartguard-ai
 
 2️⃣ Install Required Libraries
 pip install -r requirements.txt
-
-
 (If requirements.txt is not created yet, install manually:)
 
 pip install streamlit pandas numpy scikit-learn xgboost joblib
