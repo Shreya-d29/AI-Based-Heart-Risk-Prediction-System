@@ -1,4 +1,4 @@
- ❤️ HeartGuard AI – Heart Disease Risk Prediction System
+❤️ HeartGuard AI – Heart Disease Risk Prediction System
 📌 Project Overview
 
 HeartGuard AI is an AI-powered heart disease risk prediction system that helps assess the likelihood of heart disease based on patient health parameters. The project combines machine learning, data analytics, and a user-friendly interface to provide early risk assessment and awareness.
@@ -68,7 +68,7 @@ Results are displayed instantly on the interface
 
 ▶️ How to Run the Project Locally
 1️⃣ Clone the Repository
-git clone https://github.com/Shreya-d29/heartguard-ai.git
+git clone https://github.com/shreya-deshmukh/heartguard-ai.git
 cd heartguard-ai
 
 2️⃣ Install Required Libraries
@@ -79,7 +79,7 @@ pip install -r requirements.txt
 
 pip install streamlit pandas numpy scikit-learn xgboost joblib
 
-3️⃣ Train the Model (Optional)
+3️⃣ Train the Model 
 python train_model.py
 
 4️⃣ Run the Application
@@ -100,10 +100,10 @@ Target column: target
 📸 Screenshots
 
 GUI Interface: Streamlit-based prediction dashboard
+<img width="1907" height="915" alt="Screenshot 2026-01-03 223439" src="https://github.com/user-attachments/assets/604d4203-1dd9-4e7f-b054-3b4d83316563" />
 
 Final Output: Risk prediction with confidence/progress bar
-
-(Add screenshots here for better presentation)
+<img width="1920" height="918" alt="Screenshot 2026-01-03 223007" src="https://github.com/user-attachments/assets/6e3946f3-f59a-4405-afa8-0beeab7a99de" />
 
 ⚠️ Disclaimer
 
@@ -112,7 +112,8 @@ It is not a medical diagnostic tool and should not replace professional medical 
 
 👩‍💻 Team / Author
 
-Name: Shreya Deshmukh,Snehal Bandgar 
+Name: 1] Shreya Deshmukh (ML & Backend)
+      2] Snehal Bandgar(Frontend & UI ) 
 
 Project Type: Hackathon Project
 
